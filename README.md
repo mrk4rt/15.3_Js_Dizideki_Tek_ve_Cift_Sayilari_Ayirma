@@ -1,0 +1,2 @@
+# 15.3_Js_Dizideki_Tek_ve_Cift_Sayilari_Ayirma
+15.3_Js_Dizideki_Tek_ve_Cift_Sayilari_Ayirma
